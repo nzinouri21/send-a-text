@@ -13,3 +13,11 @@ message = client.messages.create(
     body="Hello from Python!")
 
 print (message.sid)
+
+
+#A few things about classes and instances from this mini-chapter!
+#
+#What is a class?
+#Classes provide means to bundle data and functionality together.
+#Creating a new class creates a new type of object, allowing new instances of
+#that type to be made.
